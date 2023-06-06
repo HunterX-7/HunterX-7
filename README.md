@@ -3,10 +3,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Francisco Quintero
 ==========================================================================================================================================
 
-A passionate Web Developer from Panama.
----------------------------------------
+### A passionate Web Developer from Panama.
 
-Skilled Full Stack Web Developer with a Mechanical Engineering background. Expertise in JavaScript, React, and Node.js. Adaptable and eager to learn new languages and frameworks. Strong remote collaboration, problem-solving, and communication skills. Passionate about innovative web development and delivering exceptional results. Ready to contribute to your team's success!
+With a Mechanical Engineering background. Expertise in JavaScript, React, and Node.js. Adaptable and eager to learn new languages and frameworks. Strong remote collaboration, problem-solving, and communication skills. Passionate about innovative web development and delivering exceptional results. 
+
+*Let's collaborate and bring your ideas to life!*
 
 * 🌍  I'm based in Panama City, Panama
 * 🖥️  See my portfolio at [MyPortfolio](http://hunterx-7.github.io/Portfolio/)
@@ -39,8 +40,8 @@ Skilled Full Stack Web Developer with a Mechanical Engineering background. Exper
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="36" height="36"/></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="36" height="36"/></a>
+<a href="https://www.adobe.com/la/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="36" height="36"/></a>
+<a href="https://www.adobe.com/la/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="36" height="36"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
@@ -55,9 +56,7 @@ Skilled Full Stack Web Developer with a Mechanical Engineering background. Exper
 <a href="https://discord.com/users/HunterX7#8215" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
 </p>
 
-### Badges
-
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/HunterX-7"><img src="https://github-readme-stats.vercel.app/api?username=HunterX-7&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="HunterX-7's GitHub stats" /></a>
 
