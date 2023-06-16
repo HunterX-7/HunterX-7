@@ -10,7 +10,7 @@ With a Mechanical Engineering background. Expertise in JavaScript, React, and No
 *Let's collaborate and bring your ideas to life!*
 
 * 🌍  I'm based in Panama City, Panama
-* 🖥️  See my portfolio at [MyPortfolio](http://hunterx-7.github.io/Portfolio/)
+* 🖥️  See my portfolio at [francisco-quintero](https://hunterx-7.github.io/francisco-quintero/)
 * ✉️  You can contact me at [fraquin7@gmail.com](mailto:fraquin7@gmail.com)
 * 🧠  I'm currently learning Next.js
 * 🤝  I'm open to collaborating on everything related to React
