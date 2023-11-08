@@ -3,11 +3,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Francisco Quintero
 ==========================================================================================================================================
 
-### A passionate Web Developer from Panama.
+### Skilled Full Stack Web Developer from Panama.
 
-With a Mechanical Engineering background. Expertise in JavaScript, React, and Node.js. Adaptable and eager to learn new languages and frameworks. Strong remote collaboration, problem-solving, and communication skills. Passionate about innovative web development and delivering exceptional results. 
-
-*Let's collaborate and bring your ideas to life!*
+With a Mechanical Engineering background. Expertise in JavaScript, TypeScript, and Python. Adaptable and eager to learn new languages and frameworks with a keen interest in data analysis. Excited about innovative web development and delivering exceptional results. Ready to contribute to your team's success!
 
 * 🌍  I'm based in Panama City, Panama
 * 🖥️  See my portfolio at [francisco-quintero](https://hunterx-7.github.io/francisco-quintero/)
