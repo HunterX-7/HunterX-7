@@ -8,10 +8,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 With a Mechanical Engineering background. Expertise in JavaScript, TypeScript, and Python. Adaptable and eager to learn new languages and frameworks with a keen interest in data analysis. Excited about innovative web development and delivering exceptional results. Ready to contribute to your team's success!
 
 * 🌍  I'm based in Panama City, Panama
-* 🖥️  See my portfolio at [francisco-quintero](https://hunterx-7.github.io/francisco-quintero/)
+* 🖥️  See my portfolio at [francisco-quintero](https://francisco-quintero.com/)
 * ✉️  You can contact me at [fraquin7@gmail.com](mailto:fraquin7@gmail.com)
 * 🧠  I'm currently learning Next.js
-* 🤝  I'm open to collaborating on everything related to React
+* 🤝  I'm open to collaborating on everything related to TypeScript
 * ⚡  Fun fact: I enjoy cooking desserts
 
 ### Skills
