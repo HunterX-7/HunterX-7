@@ -1,15 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Francisco Quintero
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Francisco
 ==========================================================================================================================================
 
-### Skilled Full Stack Web Developer from Panama.
- 
-With a Mechanical Engineering background. Expertise in JavaScript, TypeScript, and Python. Adaptable and eager to learn new languages and frameworks with a keen interest in data analysis. Excited about innovative web development and delivering exceptional results. Ready to contribute to your team's success!
+A passionate Software Engineer with expertise in full-stack development and a keen interest in data analytics, dedicated to building innovative, user-friendly solutions. Let's collaborate and turn ideas into reality!
 
 * 🌍  I'm based in Panama City, Panama
 * 🖥️  See my portfolio at [francisco-quintero](https://francisco-quintero.com/)
 * ✉️  You can contact me at [fraquin7@gmail.com](mailto:fraquin7@gmail.com)
-* 🧠  I'm currently learning Next.js
-* 🤝  I'm open to collaborating on everything related to TypeScript
+* 🧠  I'm currently learning Apex
+* 🤝  I'm open to collaborating on everything related to Salesforce
 * ⚡  Fun fact: I enjoy cooking desserts
 
 ### Skills
@@ -46,7 +44,6 @@ With a Mechanical Engineering background. Expertise in JavaScript, TypeScript, a
 
 <p align="left"> 
 <a href="https://www.linkedin.com/in/francisco-asis-quintero-cedeño/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>   
-<a href="https://www.facebook.com/fquinter07" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
 <a href="http://www.instagram.com/franquin07" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="http://www.medium.com/@fraquin7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
 <a href="https://discord.com/users/HunterX7#8215" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
