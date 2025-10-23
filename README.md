@@ -1,19 +1,20 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Francisco
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm Francisco
 ==========================================================================================================================================
 
-A passionate Software Engineer with expertise in full-stack development and a keen interest in data analytics, dedicated to building innovative, user-friendly solutions. Let's collaborate and turn ideas into reality!
+A passionate Salesforce Consultant with expertise in software engineering and a keen interest in data analytics, dedicated to digital transformation, process automation, and building scalable solutions that drive business results.
  
 * 🌍  I'm based in Panama City, Panama
 * 🖥️  See my portfolio at [francisco-quintero](https://francisco-quintero.com/)
 * ✉️  You can contact me at [fraquin7@gmail.com](mailto:fraquin7@gmail.com)
-* 🧠  I'm currently learning Apex
+* 🌱  I'm currently learning Advanced Apex development & Salesforce integrations
 * 🤝  I'm open to collaborating on everything related to Salesforce
-* ⚡  Fun fact: I enjoy cooking desserts
+* 👀  Fun fact: I enjoy cooking desserts
 
 ### Skills
 
 
 <p align="left">
+<a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354306/salesforce.svg" width="36" height="36" alt="Salesforce" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -46,5 +47,4 @@ A passionate Software Engineer with expertise in full-stack development and a ke
 <a href="https://www.linkedin.com/in/francisco-asis-quintero-cedeño/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>   
 <a href="http://www.instagram.com/franquin07" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="http://www.medium.com/@fraquin7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-<a href="https://discord.com/users/HunterX7#8215" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
 </p>
